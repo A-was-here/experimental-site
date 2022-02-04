@@ -5,3 +5,13 @@ There is content which can be grouped using
 <footer>,
 <section> and
 <article>. There may be a way to use <aside>, but if your version does not include it, that's okay.
+https://github.com/A-was-here/experimental-site/issues/1#issue-1124260175
+<link href="https://github.com/A-was-here/experimental-site/issues/1#issue-1124260175" rel="stylesheet">
+
+<p>This text will be red as defined in the external stylesheet.</p>
+<nav class="crumbs">
+    <ol>
+        <li class="crumb"><a href="#">Index</a></li>
+        <li class="crumb"><a href="#">Prose</a></li>
+    </ol>
+</nav>
