@@ -15,3 +15,10 @@ https://github.com/A-was-here/experimental-site/issues/1#issue-1124260175
         <li class="crumb"><a href="#">Prose</a></li>
     </ol>
 </nav>
+
+<nav class="crumbs">
+    <ul>
+        <li class="crumb"><a href="#">Index</a></li>
+        <li class="crumb"><a href="#">Prose</a></li>
+    </ul>
+</nav>
