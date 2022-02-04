@@ -1,0 +1,7 @@
+There is content which can be grouped using
+<header>,
+<nav>,
+<main>,
+<footer>,
+<section> and
+<article>. There may be a way to use <aside>, but if your version does not include it, that's okay.
