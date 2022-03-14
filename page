@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+  <input type="submit" value="Submit">
+</html>
